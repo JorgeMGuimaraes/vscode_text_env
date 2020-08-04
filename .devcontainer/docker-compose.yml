@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+    text:
+        container_name: text_env
+        build:
+            context: .
+            args:
+                - VARIANT=buster
+        volumes:
+            - ..:/workspace:cached
+        command: sleep infinity
