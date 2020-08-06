@@ -13,10 +13,17 @@
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [],
+	"extensions": [
+        "james-yu.latex-workshop",
+        "yzhang.markdown-all-in-one",
+		"streetsidesoftware.code-spell-checker",
+		"DavidAnson.vscode-markdownlint",
+		"shd101wyy.markdown-preview-enhanced",
+		"bierner.github-markdown-preview"
+    ],
 
 	"workspaceFolder": "/workspace",
 
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "vscode",
+	"remoteUser": "vscode"
 }
