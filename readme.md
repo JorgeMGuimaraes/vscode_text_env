@@ -1,5 +1,7 @@
 # Text Environment
 
+[![GitHub license](https://img.shields.io/github/license/FreakMegalodon/vscode_text_env)](https://github.com/FreakMegalodon/vscode_text_env) [![GitHub issues](https://img.shields.io/github/issues/FreakMegalodon/vscode_text_env)](https://github.com/FreakMegalodon/vscode_text_env/issues) [![GitHub forks](https://img.shields.io/github/forks/FreakMegalodon/vscode_text_env)](https://github.com/FreakMegalodon/vscode_text_env/network) [![GitHub stars](https://img.shields.io/github/stars/FreakMegalodon/vscode_text_env)](https://github.com/FreakMegalodon/vscode_text_env/stargazers)
+
 Visual Studio Code remote develepment environment (dev container) for texts: markdown, txt and latex.
 
 Includes this extensions:
