@@ -40,4 +40,4 @@ Pull requests are welcome.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/FreakMegalodon/vscode_text_env/blob/master/LICENSE)
